@@ -416,3 +416,10 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# macOS
+.DS_Store
+
+# Rider
+.idea/
+*.csproj.user
